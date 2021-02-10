@@ -23,4 +23,10 @@
     - Now you know the exact address where you can find the Google homepage.
 6) Next, you will send a direct request to that address through your ISP.
     - This request will be delivered via the "Internet Backbone".
-
+    - These are the underwater cables that power the internet. 
+    - The internet is made up of these HUGE masses of wires that connect all of the world's internet users.
+    - If I'm in United States and I want to see a website that's hosted in London, my browser would have to make a request that goes through one of these cables under the Atlantic ocean in order to reach London.
+    - Once the other computer has received my request, they will send back all the relevant data back through these cables. 
+![](https://github.com/JeffreybVilla/WebDevelopmentBootcamp/blob/main/images/submarineCables.png)
+![](https://github.com/JeffreybVilla/WebDevelopmentBootcamp/blob/main/images/submarineWire.jpg)
+![](https://github.com/JeffreybVilla/WebDevelopmentBootcamp/blob/main/images/cableOcean.jpg)
