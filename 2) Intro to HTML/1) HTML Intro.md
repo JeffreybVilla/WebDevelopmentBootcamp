@@ -12,8 +12,16 @@
 
 
 # Book Example
-https://www.gutenberg.org/files/1661/1661-h/1661-h.htm
+https://www.gutenberg.org/ebooks/1661
+https://codepen.io/jeffrey-villalobos/pen/gOLLYdW
 Try to format the heading the same way.
 
     <h1> </h1> --> <h6> </h6> 
     Creates headlines -- H1 = largest, h6 = smallest.
+    
+    <br> --> No closing tag.
+    Inserts a line break. (Carriage return)
+    
+    
+    
+    
