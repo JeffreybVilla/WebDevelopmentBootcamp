@@ -16,11 +16,15 @@ https://www.gutenberg.org/ebooks/1661
 https://codepen.io/jeffrey-villalobos/pen/gOLLYdW
 Try to format the heading the same way.
 
-    <h1> </h1> --> <h6> </h6> 
-    Creates headlines -- H1 = largest, h6 = smallest.
-    
-    <br> --> No closing tag.
-    Inserts a line break. (Carriage return)
+
+    <hr>
+    <h1>The Adventures of Sherlock Holmes</h1>
+    <br>
+    <h3>by</h3>
+    <br>
+    <h2>Arthur Conan Doyle</h2>
+    <hr>
+
     
     
     
