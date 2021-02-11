@@ -10,3 +10,4 @@
 
 hr: HTML element
 size="3": HTML attribute
+size="3 noshade": HTML attribute
