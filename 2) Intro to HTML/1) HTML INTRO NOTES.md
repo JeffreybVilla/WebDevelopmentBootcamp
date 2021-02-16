@@ -44,3 +44,14 @@ Try to format the heading the same way.
     hr: HTML element
     size="3": HTML attribute
     size="3 noshade": HTML attribute
+    
+    
+    
+    
+    
+    
+    
+    
+    
+# 4) HTML Boilerplate
+
