@@ -124,16 +124,16 @@ Try to format the heading the same way.
     </ul>
 
 ## Nested Lists
-    <h2>A Nested List</h2>
-    <p>Lists can be nested (list inside list):</p>
+    - A Nested List
+    - Lists can be nested (list inside list)
 
-    <ul>
-      <li>Coffee</li>
-      <li>Tea
         <ul>
-          <li>Black tea</li>
-          <li>Green tea</li>
+          <li>Coffee</li>
+          <li>Tea
+            <ul>
+              <li>Black tea</li>
+              <li>Green tea</li>
+            </ul>
+          </li>
+          <li>Milk</li>
         </ul>
-      </li>
-      <li>Milk</li>
-    </ul>
