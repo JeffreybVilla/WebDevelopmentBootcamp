@@ -54,4 +54,37 @@ Try to format the heading the same way.
     
     
 # 4) HTML Boilerplate
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    
+  </body>
+</html>
 
+## Meta element
+- Character set is utf-8.
+- All the text in this website is encoded in UTF-8 system. 
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML, CSS, JavaScript">
+  <meta name="author" content="John Doe">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+- These meta tagstell the browser how it should render/display the page.
+- The tags also give info to search engines about the content on website. 
+
+
+
+
+
+
+
+
+# 5) How to Structure Text in HTML
