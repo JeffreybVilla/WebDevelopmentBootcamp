@@ -54,16 +54,16 @@ Try to format the heading the same way.
     
     
 # 4) HTML Boilerplate
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    
-  </body>
-</html>
+    <!DOCTYPE html>
+    <html lang="en" dir="ltr">
+      <head>
+        <meta charset="utf-8">
+        <title></title>
+      </head>
+      <body>
+
+      </body>
+    </html>
 
 ## Meta element
     - Character set is utf-8.
