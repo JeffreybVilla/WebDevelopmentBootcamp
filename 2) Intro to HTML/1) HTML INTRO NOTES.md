@@ -1,5 +1,5 @@
 # 1) Introduction to HTML
-
+https://codepen.io/jeffrey-villalobos/pen/MWKEXWp
 ## HTML (HyperText Markup Language)
     - HTML is the main structure to a website.
     - You can create a website with only HTML code, can't do that with CSS or Javascript.
@@ -88,3 +88,52 @@ Try to format the heading the same way.
 
 
 # 5) How to Structure Text in HTML
+     - We want to give meaning to the text not stylize it. 
+         - Better to use <em> </em> than <i> </i>
+         - Better to use <strong> </strong> to make bold text
+     <h2><em>Software <strong>developer.</strong></em></h2>
+
+
+
+
+
+
+
+
+
+# 6) HTML Lists
+## Ordered List
+    An ordered list starts with the <ol> tag. 
+    Each list item starts with the <li> tag.
+    The list items will be marked with numbers by default:
+
+    <ol>
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+    </ol>  
+## Unordered Lists
+    An unordered list starts with the <ul> tag. 
+    Each list item starts with the <li> tag.
+    The list items will be marked with bullets (small black circles) by default.
+
+    <ul>
+      <li>Coffee</li>
+      <li>Tea</li>
+      <li>Milk</li>
+    </ul>
+
+## Nested Lists
+    <h2>A Nested List</h2>
+    <p>Lists can be nested (list inside list):</p>
+
+    <ul>
+      <li>Coffee</li>
+      <li>Tea
+        <ul>
+          <li>Black tea</li>
+          <li>Green tea</li>
+        </ul>
+      </li>
+      <li>Milk</li>
+    </ul>
