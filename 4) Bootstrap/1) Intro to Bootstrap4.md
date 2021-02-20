@@ -64,16 +64,15 @@
 
 ## How to add Bootstrap to our websites?
 ### Method 1:
-Copy and past this into header section of HTML code. 
+- Copy and past this into header section of HTML code. 
+- ADD: link rel="stylesheet"...The browser will download the boostrap files if the user doesn't have it cached already.
+- Bootstrap used CDN: Content Delivery Network; It will access the files quickly by reaching shortest route.
 
-	This is how to add Bootstrap to our website by linking it in header.
-	ADD: link rel="stylesheet"...The browser will download the boostrap files if the user doesn't have it cached already.
-	Bootstrap used CDN: Content Delivery Network; It will access the files quickly by reaching shortest route.
-	    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
 
 
 ### Method 2:
-If creating website completely from scratch you can add Starter template.
+- If creating website completely from scratch you can add Starter template.
 
 	<!doctype html>
 	<html lang="en">
@@ -103,4 +102,11 @@ If creating website completely from scratch you can add Starter template.
 	    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
 	    -->
 	  </body>
-	</html>
+		</html>
+
+
+### Method 3: Download the CSS & JS Sourcode (not reccommended)
+	- Instead of pointing to URL in internet. 
+	- You can point to files to locally on your website.
+	- This negates caching user would have
+	- Slower loading times. 
