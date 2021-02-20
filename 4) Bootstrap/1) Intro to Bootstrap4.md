@@ -64,11 +64,10 @@
 
 ## How to add Bootstrap to our websites?
 ### Method 1:
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-<!--This is how to add Bootstrap to our website by linking it in header.-->
-<!--ADD: link rel="stylesheet"...The browser will download the boostrap files if the user doesn't have it cached already"-->
-<!--Bootstrap used CDN: Content Delivery Network; It will access the files quickly by reaching shortest route.-->
-
+Copy and past this into header section of HTML code. 
+This is how to add Bootstrap to our website by linking it in header.
+ADD: link rel="stylesheet"...The browser will download the boostrap files if the user doesn't have it cached already.
+Bootstrap used CDN: Content Delivery Network; It will access the files quickly by reaching shortest route.
 
 
 ### Method 2:
