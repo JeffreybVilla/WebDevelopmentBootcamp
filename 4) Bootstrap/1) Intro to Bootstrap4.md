@@ -55,3 +55,9 @@
 	<body>
 	    <button class="btn btn-primary">Hello Word</button>
 	</body>
+
+## How Does BootStrap Work?
+- Inside the BootStrap Source files, bootstrap-5.0.0-beta2\dist\css\bootstrap.css
+- When you open the bootstrap.css file, you will see A LOT of predefined styles for the HTML elements. 
+- There is also a lot of classes that are already styled. 
+- TAG SELECTORS & CLASS SELECTORS are already styled. 
