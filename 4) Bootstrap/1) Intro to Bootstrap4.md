@@ -18,7 +18,7 @@
 	  - Pre-Styled Elements.
 	    - Like a CSS Button Generator can easily be done with BootStrap.
 
-	EXAMPLE: Blue Button Generator HTML & CSS
+### EXAMPLE: Blue Button Generator HTML & CSS
 	HTML: 
 	<body>
 	<a href="#" class="myButton">blue</a>
@@ -51,7 +51,7 @@
 	}
 
 
-	EXAMPLE: Blue Button Generator BootStrap 4
+### EXAMPLE: Blue Button Generator BootStrap 4
 	<body>
 	    <button class="btn btn-primary">Hello Word</button>
 	</body>
