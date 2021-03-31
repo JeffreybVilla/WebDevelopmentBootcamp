@@ -1,6 +1,7 @@
 https://www.codeply.com/p/6Aceq9NulN
 # BootStrap Grid
 
+## Unresponsive Grid
     <div class="row">
         <div class="col" style="background-color:red; border: 1px solid;">
             col
