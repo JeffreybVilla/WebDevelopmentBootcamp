@@ -34,3 +34,29 @@ https://www.codeply.com/p/6Aceq9NulN
 - Problem with this is that it is not responsive.
 - The columns should reduce as the screen size reduces.
     - Desktop --> Tablet --> Phone
+
+
+
+## Responsive Grid
+    <div class="row">
+        <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:SlateBlue; border 1px solid">
+            col-lg-3 col-md-4 col-sm-6
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:Khaki; border 1px solid">
+            col-lg-3 col-md-4 col-sm-6
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:LightSkyBlue; border 1px solid">
+            col-lg-3 col-md-4 col-sm-6
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-sm-6" style="background-color:Tan; border 1px solid">
+            col-lg-3 col-md-4 col-sm-6
+        </div>
+
+    </div>
+    
+- col-lg-3 desktop will have 4 columns
+- col-md-4 tablet will have 3 columns
+- col-sm-6 phone will have 2 columns
