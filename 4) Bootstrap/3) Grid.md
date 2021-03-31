@@ -9,14 +9,6 @@ https://www.codeply.com/p/6Aceq9NulN
         <div class="col" style="background-color:red; border: 1px solid;">
             col
         </div>
-
-        <div class="col" style="background-color:red; border: 1px solid;">
-            col
-        </div>
-
-        <div class="col" style="background-color:red; border: 1px solid;">
-            col
-        </div>
     </div> 
 
 
